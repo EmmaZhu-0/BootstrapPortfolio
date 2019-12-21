@@ -1,0 +1,74 @@
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image:
+
+}
+
+html {
+
+     position: relative;
+     min-height: 100%;
+
+}
+
+main {
+
+    margin: 80px 0px;
+
+}
+
+.block {
+    background-color:white;
+    padding: 30px;
+    margin-bottom: 30px;
+
+}
+
+.block-header {
+
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.image {
+
+    width: 300px;
+    height: 300px;
+}
+
+.navbar {
+
+    border: none;
+    background: white;
+    
+
+}
+
+#logo {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    background: navy;
+    width: 200px;
+    word-spacing: 10px;
+    text-align: center;
+
+}
+
+#form-class ul {
+
+    margin-bottom: 20px;
+
+}
+
+#form-class li {
+
+    margin-bottom: 10px;
+    
+}
