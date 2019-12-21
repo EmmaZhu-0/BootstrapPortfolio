@@ -1,7 +1,9 @@
 body {
 
     font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
     background-image:
+    
 
 }
 
@@ -34,11 +36,12 @@ main {
 
 }
 
-.image {
-
-    width: 300px;
-    height: 300px;
-}
+.image{
+  
+        width: 300px;
+        height: 300px;
+        float: left;
+    }
 
 .navbar {
 
@@ -50,12 +53,12 @@ main {
 
 #logo {
 
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
     font-weight: bold;
     color: white;
     background: navy;
-    width: 200px;
+    width: 250px;
     word-spacing: 10px;
     text-align: center;
 
@@ -72,3 +75,10 @@ main {
     margin-bottom: 10px;
     
 }
+
+p {
+
+    position: relative;
+    
+}
+
