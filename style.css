@@ -1,17 +1,18 @@
 body {
 
     font-family: Arial, Helvetica, sans-serif;
-    background-color: whitesmoke;
-    background-image:
-    
+    background-color:whitesmoke;
+    background-image: url(clouds_and_the_sky.jpg);
+     
 
 }
+
 
 html {
 
      position: relative;
      min-height: 100%;
-
+     
 }
 
 main {
@@ -82,3 +83,7 @@ p {
     
 }
 
+nav {
+
+    background-color: teal;
+}
